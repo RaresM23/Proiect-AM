@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316724556599",
+    "project_id": "proiectam-firebase",
+    "storage_bucket": "proiectam-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316724556599:android:26cec732942902b5b0a0b2",
+        "android_client_info": {
+          "package_name": "com.example.proiectam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbtc5XKNn8nv9B_0i67Gkp7RV58BWhCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
